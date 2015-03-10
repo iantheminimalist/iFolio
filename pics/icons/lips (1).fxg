@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="480" viewWidth="640" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="480" d:pageWidth="640" d:type="layer" d:userLabel="Artboard 1">
+    <Group d:type="layer" d:userLabel="Layer 1">
+      <Group x="168.61" y="90.2124" ai:seqID="1" flm:knockout="false">
+        <Group ai:seqID="2" d:userLabel="&lt;title&gt;"/>
+        <Group ai:seqID="3" flm:knockout="false" d:userLabel="layer1">
+          <Group ai:seqID="4" flm:knockout="false" d:userLabel="g8064">
+            <Path x="1.01514" y="0.412354" winding="nonZero" ai:seqID="5" d:userLabel="path1070" data="M176.397 193.665C153.494 193.665 135.942 191.285 109.793 172.234 83.269 152.908 69.8315 125.449 43.6396 102.247 36.3599 95.7981 10.9829 79.7102 0 75.7805 22.1533 63.9397 46.1133 46.6638 54.7002 40.4456 78.5039 23.2073 98.5781 -0.0837402 115.525
+ 0.000244141 128.966 0.0690918 143.923 18.241 176.397 18.241 209.416 18.241 223.829 0.0690918 237.27 0.000244141 254.217 -0.0837402 274.291 23.2073 298.095 40.4456 306.682 46.6638 330.642 63.9397 352.795 75.7805 341.813 79.7102 316.436 95.7981
+ 309.155 102.247 282.964 125.449 269.526 152.908 243.002 172.234 216.854 191.285 198.758 193.665 176.397 193.665ZM176.397 115.2C168.083 115.2 161.712 114.62 152.22 109.979 142.591 105.272 137.713 103.804 128.205 98.1516 125.563 96.5808 116.35
+ 92.6619 112.363 91.7048 120.405 88.8206 129.103 84.6121 132.22 83.0969 140.861 78.8982 148.148 73.2244 154.3 73.2449 159.18 73.262 164.608 77.6882 176.397 77.6882 188.384 77.6882 193.615 73.262 198.495 73.2449 204.646 73.2244 211.934 78.8982
+ 220.575 83.0969 223.692 84.6121 232.39 88.8206 240.432 91.7048 236.445 92.6619 227.232 96.5808 224.59 98.1516 215.082 103.804 210.204 105.272 200.576 109.979 191.083 114.62 184.515 115.2 176.397 115.2Z">
+              <fill>
+                <SolidColor color="#9F0000"/>
+              </fill>
+              <stroke>
+                <SolidColorStroke weight="0.825157" caps="none" joints="miter" miterLimit="4"/>
+              </stroke>
+            </Path>
+            <Path x="117.528" y="112.06" winding="nonZero" ai:seqID="6" d:userLabel="rect4935" data="M39.0088 0 147.963 0 108.954 56.043 0 56.043 39.0088 0Z">
+              <fill>
+                <BitmapFill source="@Embed('lips (1).assets/images/FLM_GradientImage_1.png')" x="0" y="0" fillMode="clip" scaleX="1" scaleY="1"/>
+              </fill>
+            </Path>
+            <Path x="64.9741" y="3.29688" winding="nonZero" ai:seqID="7" d:userLabel="rect7425" data="M16.0864 8.0127 73.1748 0 57.0879 44.2402 0 52.2529 16.0864 8.0127Z">
+              <fill>
+                <BitmapFill source="@Embed('lips (1).assets/images/FLM_GradientImage_3.png')" x="0" y="0" fillMode="clip" scaleX="1" scaleY="1"/>
+              </fill>
+            </Path>
+            <Path x="194.724" y="1.80225" winding="nonZero" ai:seqID="8" d:userLabel="rect8048" data="M13.0479 6.49951 59.3545 0 46.3066 35.8853 0 42.3848 13.0479 6.49951Z">
+              <fill>
+                <BitmapFill source="@Embed('lips (1).assets/images/FLM_GradientImage_5.png')" x="0" y="0" fillMode="clip" scaleX="1" scaleY="1"/>
+              </fill>
+            </Path>
+          </Group>
+        </Group>
+      </Group>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>
