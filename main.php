@@ -16,9 +16,7 @@
     <!-- Custom styles for this template -->
     <link href="bootstrap-3.3.1-dist/dist/css/custom/cover.css" rel="stylesheet">
 
-
   </head>
-
   <body class="page1 mainCenter">
     
     <div class="site-wrapper">
@@ -40,14 +38,14 @@
 
           <div class="inner cover ">
             <h1 class="cover-heading" >Wlcme</h1>
-       <!--
+    <!--
               <p class="lead">
                   First best is falling in love. Second best is being in love. Least best is falling out of love. But any of it is better than                     never having been in love.
               </p>
               <p class="lead">
                 - Maya Angelou
               </p>
--->
+    -->
           </div>
 
             </br>
@@ -62,7 +60,7 @@
         
             <p class="lead col-xs-4">
               <img src="pics/icons/arrow2.png">
-              <a href="#" class="btn btn-lg btn-default">Sign Up</a>
+              <a href="signup.php" class="btn btn-lg btn-default">Sign Up</a>
             </p>
             
             <p class="lead col-xs-4">

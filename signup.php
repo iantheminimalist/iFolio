@@ -100,14 +100,18 @@
             </div>
         </div>  
           
-          <div class="mastfoot">
+
+        </div> <!-- <div class="cover-container"> -->
+        <div class="container">        
+        <div class="mastfoot">
             <div class="inner">
               <p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
+            </div>
+      </div> <!-- <div class="site-wrapper-inner"> -->
+      
+    </div> <!-- <div class="site-wrapper"> -->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

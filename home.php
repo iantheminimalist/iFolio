@@ -42,7 +42,7 @@
             <h1 class="cover-heading" >ptnrNote</h1>
        
               <p class="lead">
-                  First best is falling in love. Second best is being in love. Least best is falling out of love. But any of it is better than never having                       been in love.
+                  First best is falling in love. Second best is being in love. Least best is falling out of love. But any of it is better than                       never having been in love.
               </p>
               <p class="lead">
                 - Maya Angelou
